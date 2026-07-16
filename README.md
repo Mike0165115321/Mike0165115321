@@ -43,18 +43,6 @@
 | 🏅 **AI-Robot-Guide-** | Hybrid Intelligence Tourism Platform — **Gold Medal National Competition** 🥇 | Python, RAG, LLM |
 | 📒 **Ledger Inbox** | Evidence-first Accounting for Freelance Devs — Offline First Desktop App | FastAPI, SPA |
 
----
-
-### 🚀 Journey
-
-- 🗓️ **First code:** 13 Jun 2025 — Python
-- 🎯 **First GitHub push:** 6 Aug 2025 (19th birthday)
-- 🥇 **Gold Medal:** AI-Robot-Guide- — Hybrid Intelligence Tourism Platform
-- 💎 **120K Project:** ALM Impact Tennis — 325+ commits, 6 services
-- 🧠 **Directional Cognition v1.0:** 6-layer cognitive engine architecture
-
----
-
 <div align="center">
 
 <a href="https://gitroll.io/profile/ur8ggLOhTMdOubHjvO4PxE4UHNlV2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/ur8ggLOhTMdOubHjvO4PxE4UHNlV2?theme=dark" alt="GitRoll Profile Badge" width="400"/></a>
