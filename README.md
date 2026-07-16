@@ -1,8 +1,13 @@
-## 👋 สวัสดีครับ — I'm **Mike**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Mike&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Architecture-first%20developer&descSize=16&descAlignY=55">
+  <img alt="header" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Mike&fontSize=60&animation=fadeIn&fontAlignY=38">
+</picture>
 
-> **Architecture-first developer** · Directional Cognition
+<div align="center">
 
-<a href="https://gitroll.io/profile/ur8ggLOhTMdOubHjvO4PxE4UHNlV2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/ur8ggLOhTMdOubHjvO4PxE4UHNlV2?theme=dark" alt="GitRoll Profile Badge" width="400"/></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=20&duration=4000&pause=800&center=true&vCenter=true&width=600&color=58A6FF&lines=Architecture-first+developer;Directional+Cognition;Building+AI+Agents)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
@@ -18,28 +23,37 @@
 
 ### ⚡ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3D5A?style=flat&logo=langchain&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=nodedotjs&logoColor=white)
+<div align="center">
+
+[![Stack](https://skillicons.dev/icons?i=py,ts,react,fastapi,tailwind,docker,go,rust,nodejs,postgres,redis,git&theme=dark&perline=8)](https://skillicons.dev)
+
+</div>
 
 ---
 
-### 🏆 Highlight Projects
+### 🏗️ Agent Skills
+
+| Skill | Core Philosophy |
+|:--|:--|
+| 🏛️ [**Senior Architect Agent**](https://github.com/aetox-skills/senior-architect-agent) | Evidence-first architect — inspect before design, map before judge. Refuses to guess. |
+| 🤝 [**Aetox Agents Protocol**](https://github.com/aetox-skills/Aetox-Agents-Team) | Self-organizing multi-agent collaboration — no orchestrator needed. Entry Ritual → Scope → Handoff → Exit. |
+| 💡 [**Idea → Architecture**](https://github.com/aetox-skills/idea-to-architecture-agent) | Question-first proposal engine — raw fuzzy concept → structured, reviewable architecture spec. |
+| 💰 **Token Calc** | Token cost surgeon — turn vague API costs into concrete annual USD. Model-agnostic. |
+| 🔥 **Grill with Docs** | Stress-test implementation plans against domain model. Catch contradictions before building. |
+
+---
+
+### 🏆 Key Projects
 
 | Project | Description | Stack |
 |:--|:--|:--:|
-| 🎾 **ALM Impact Tennis** | Smart Matchmaker + Court Booking — NTRP-based pair matching, premium UI | React 19, TS, Tailwind v4, Gemini |
+| 🎾 **ALM Impact Tennis** | Smart Matchmaker + Court Booking — NTRP-based pair matching, premium glassmorphism UI | React 19, TS, Tailwind v4, Gemini |
 | 🏗️ **Senior Architect Agent** | AI agent — system mapping, architecture docs, Mermaid diagrams, agent handoff | Python, LangChain |
-| 🤖 **Aetox Works** | AI Enterprise Workforce — Supervisor-Worker pipeline, 5 specialized agents | LangGraph, FastAPI, Docker |
+| 🤖 **Aetox Works** | AI Enterprise Workforce — LangGraph Supervisor-Worker pipeline, 5 specialized agents | LangGraph, FastAPI, Docker |
 | 🏅 **AI-Robot-Guide-** | Hybrid Intelligence Tourism Platform — **Gold Medal National Competition** 🥇 | Python, RAG, LLM |
-| 📒 **Ledger Inbox** | Evidence-first Accounting for Freelance Devs — Offline First Desktop | FastAPI, SPA |
+| 📒 **Ledger Inbox** | Evidence-first Accounting for Freelance Devs — Offline First Desktop App | FastAPI, SPA |
+
+---
 
 ### 🚀 Journey
 
@@ -49,4 +63,10 @@
 - 💎 **120K Project:** ALM Impact Tennis — 325+ commits, 6 services
 - 🧠 **Directional Cognition v1.0:** 6-layer cognitive engine architecture
 
+---
 
+<div align="center">
+
+<a href="https://gitroll.io/profile/ur8ggLOhTMdOubHjvO4PxE4UHNlV2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/ur8ggLOhTMdOubHjvO4PxE4UHNlV2?theme=dark" alt="GitRoll Profile Badge" width="400"/></a>
+
+</div>
