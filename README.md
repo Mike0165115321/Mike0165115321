@@ -21,30 +21,6 @@
 
 ---
 
-### ⚡ Tech Stack
-
-<div align="center">
-
-**Languages**
-
-![Languages](https://skillicons.dev/icons?i=py,ts,js,go,rust,c,cpp&theme=dark&perline=14)
-
-**Frontend**
-
-![Frontend](https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,html,css,md&theme=dark&perline=14)
-
-**Backend & Database**
-
-![Backend](https://skillicons.dev/icons?i=fastapi,nodejs,postgres,sqlite,redis&theme=dark&perline=14)
-
-**DevOps & Tools**
-
-![Tools](https://skillicons.dev/icons?i=docker,git,github,githubactions,linux,bash,vscode&theme=dark&perline=14)
-
-</div>
-
----
-
 ### 🏗️ Agent Skills
 
 | Skill | Core Philosophy |
@@ -82,5 +58,29 @@
 <div align="center">
 
 <a href="https://gitroll.io/profile/ur8ggLOhTMdOubHjvO4PxE4UHNlV2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/ur8ggLOhTMdOubHjvO4PxE4UHNlV2?theme=dark" alt="GitRoll Profile Badge" width="400"/></a>
+
+</div>
+
+---
+
+### ⚡ Tech Stack
+
+<div align="center">
+
+**Languages**
+
+![Languages](https://skillicons.dev/icons?i=py,ts,js,go,rust,c,cpp&theme=dark&perline=14)
+
+**Frontend**
+
+![Frontend](https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,html,css,md&theme=dark&perline=14)
+
+**Backend & Database**
+
+![Backend](https://skillicons.dev/icons?i=fastapi,nodejs,postgres,sqlite,redis&theme=dark&perline=14)
+
+**DevOps & Tools**
+
+![Tools](https://skillicons.dev/icons?i=docker,git,github,githubactions,linux,bash,vscode&theme=dark&perline=14)
 
 </div>
