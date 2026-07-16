@@ -25,7 +25,21 @@
 
 <div align="center">
 
-[![Stack](https://skillicons.dev/icons?i=py,ts,react,fastapi,tailwind,docker,go,rust,nodejs,postgres,redis,git&theme=dark&perline=8)](https://skillicons.dev)
+**Languages**
+
+![Languages](https://skillicons.dev/icons?i=py,ts,js,go,rust,c,cpp&theme=dark&perline=14)
+
+**Frontend**
+
+![Frontend](https://skillicons.dev/icons?i=react,vite,tailwind,html,css,md&theme=dark&perline=14)
+
+**Backend & Database**
+
+![Backend](https://skillicons.dev/icons?i=fastapi,nodejs,postgres,sqlite,redis&theme=dark&perline=14)
+
+**DevOps & Tools**
+
+![Tools](https://skillicons.dev/icons?i=docker,git,github,githubactions,linux,bash,vscode&theme=dark&perline=14)
 
 </div>
 
