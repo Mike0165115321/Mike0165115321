@@ -1,6 +1,6 @@
 ## 👋 สวัสดีครับ — I'm **Mike**
 
-> **Architecture-first developer** · Directional Cognition · จากน่าน สู่ระบบ
+> **Architecture-first developer** · Directional Cognition
 
 <a href="https://gitroll.io/profile/ur8ggLOhTMdOubHjvO4PxE4UHNlV2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/ur8ggLOhTMdOubHjvO4PxE4UHNlV2?theme=dark" alt="GitRoll Profile Badge" width="400"/></a>
 
@@ -41,17 +41,6 @@
 | 🏅 **AI-Robot-Guide-** | Hybrid Intelligence Tourism Platform — **Gold Medal National Competition** 🥇 | Python, RAG, LLM |
 | 📒 **Ledger Inbox** | Evidence-first Accounting for Freelance Devs — Offline First Desktop | FastAPI, SPA |
 
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mike0165115321&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mike0165115321&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</div>
-
----
-
 ### 🚀 Journey
 
 - 🗓️ **First code:** 13 Jun 2025 — Python
@@ -60,24 +49,4 @@
 - 💎 **120K Project:** ALM Impact Tennis — 325+ commits, 6 services
 - 🧠 **Directional Cognition v1.0:** 6-layer cognitive engine architecture
 
----
 
-### 🇹🇭 จากน่าน
-
-> *"เกิดที่น่าน โตที่น่าน — แต่โค้ดไปถึงทั้งโลก"*
->
-> Built in **Nan, Thailand** · Architecture for the real world
-
----
-
-<details>
-<summary>📈 <b>Detailed Stats</b></summary>
-<br>
-
-![Followers](https://img.shields.io/github/followers/Mike0165115321?style=social)
-![Stars](https://img.shields.io/github/stars/Mike0165115321?style=social)
-![Profile Views](https://komarev.com/ghpvc/?username=Mike0165115321&color=blue&style=flat)
-
-**22 public repos** · **21 followers** · **25 stars**
-
-</details>
