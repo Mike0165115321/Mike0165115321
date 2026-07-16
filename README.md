@@ -21,6 +21,21 @@
 
 ---
 
+### 🧬 Evolution
+
+```
+Aug '25  ▸ Foundation         CONSULTANT_MODEL · resume
+          └── FastAPI + RAG พื้นฐาน จุดเริ่มต้นของสายงาน
+Sep '25  ▸ RAG Specialization  AI-Robot-Guide- 🥇 → BookMind → knowledge-graph
+          └── Dual-Brain → Agentic → Multi-Agent 3D Debate วิวัฒนาการทุก repo
+Apr '26  ▸ Platform & Scale    trees4_bot · ALM Tennis · Aetox.dev
+          └── จาก RAG research สู่สินค้าที่ ship จริง มีลูกค้าใช้งาน
+Jun '26  ▸ Meta / Tooling      Senior Architect Agent · Aetox Protocol
+          └── สร้างเครื่องมือที่สอน AI agent ให้คิดอย่างเป็นระบบ
+```
+
+---
+
 ### 🏗️ Agent Skills
 
 | Skill | Core Philosophy |
