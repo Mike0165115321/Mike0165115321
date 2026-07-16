@@ -31,7 +31,7 @@
 
 **Frontend**
 
-![Frontend](https://skillicons.dev/icons?i=react,vite,tailwind,html,css,md&theme=dark&perline=14)
+![Frontend](https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,html,css,md&theme=dark&perline=14)
 
 **Backend & Database**
 
