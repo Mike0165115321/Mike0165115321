@@ -9,6 +9,8 @@
 
 </div>
 
+<div align="center"><b>ชยพล พรมสะวะนา</b> · Mike</div>
+
 ---
 
 ### 🧠 Directional Cognition
