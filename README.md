@@ -16,12 +16,22 @@
 ### 🧠 Directional Cognition
 
 > *"หัวใจไม่ใช่ความรู้ในโมเดล หัวใจคือ Architecture ที่ควบคุมวิธีคิดของโมเดล"*
+>
+> Good architecture doesn't just patch a model's weaknesses — it amplifies existing strengths and creates new dimensions the model never had.
+> AI capability isn't bound to the inference engine alone. It's the entire system wrapped around it.
+> Cut what's excess (resources). Fill what's missing (capabilities). That's the heart of good architecture.
 
 ---
 
 ### 🦅 Aetox
 
 **AI Era Advantage Platform** — เครื่องมือ เอเจนต์ และสถาปัตยกรรมที่สร้าง Advantage ในยุค AI
+
+<div align="center">
+  <a href="https://github.com/Mike0165115321/Aetox">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mike0165115321&repo=Aetox&theme=dark&hide_border=true&description_lines_count=2" alt="Aetox">
+  </a>
+</div>
 
 | Product | Description |
 |:--|:--|
