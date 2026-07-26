@@ -1,15 +1,13 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Mike&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Architecture-first%20developer&descSize=16&descAlignY=55">
-  <img alt="header" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Mike&fontSize=60&animation=fadeIn&fontAlignY=38">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Aetox&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Directional%20Cognition&descSize=16&descAlignY=55">
+  <img alt="header" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Aetox&fontSize=60&animation=fadeIn&fontAlignY=38">
 </picture>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=20&duration=4000&pause=800&center=true&vCenter=true&width=600&color=58A6FF&lines=Architecture-first+developer;Directional+Cognition;Building+AI+Agents)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=20&duration=4000&pause=800&center=true&vCenter=true&width=600&color=58A6FF&lines=Directional+Cognition;DeepSeek+%C3%97+Cognitive+Architecture;AI+that+thinks+with+architecture;Aetox+%E2%80%94+the+AI+Era+Advantage)](https://git.io/typing-svg)
 
 </div>
-
-<div align="center"><b>ชยพล พรมสะวะนา</b> · Mike</div>
 
 ---
 
@@ -17,48 +15,41 @@
 
 > *"หัวใจไม่ใช่ความรู้ในโมเดล — หัวใจคือ Architecture ที่ควบคุมวิธีคิดของโมเดล"*
 >
-> Directional Cognition — สถาปัตยกรรมที่ควบคุมทิศทางการคิดของโมเดล
-> ใช้ DeepSeek เป็น substrate จับคู่กับ Cognitive Architecture
+> Directional Cognition — สถาปัตยกรรมที่ควบคุมทิศทางการคิดของโมเดล  
+> ใช้ DeepSeek เป็น substrate จับคู่กับ Cognitive Architecture  
 > เพื่อให้ผลลัพธ์ดีกว่าโมเดลใหญ่
 
----
-
-### 🧬 Evolution
-
-```
-Aug '25  ▸ Foundation         CONSULTANT_MODEL · resume
-          └── FastAPI + RAG พื้นฐาน จุดเริ่มต้นของสายงาน
-Sep '25  ▸ RAG Specialization  AI-Robot-Guide- 🥇 → BookMind → knowledge-graph
-          └── Dual-Brain → Agentic → Multi-Agent 3D Debate วิวัฒนาการทุก repo
-Apr '26  ▸ Platform & Scale    trees4_bot · ALM Tennis · Aetox.dev
-          └── จาก RAG research สู่สินค้าที่ ship จริง มีลูกค้าใช้งาน
-Jun '26  ▸ Meta / Tooling      Senior Architect Agent · Aetox Protocol
-          └── สร้างเครื่องมือที่สอน AI agent ให้คิดอย่างเป็นระบบ
-```
+**แนวคิด:** ไม่ต้องรอ Scaling Law — ใช้ Architecture ที่ถูกต้อง จับคู่โมเดลเล็กกับ cognitive layer ที่ออกแบบมาอย่างมีระบบ ก็เอาชนะโมเดลใหญ่ที่ใช้แค่ prompt + knowledge ได้
 
 ---
 
-### 🏗️ Agent Skills
+### 🦅 Aetox
 
-| Skill | Core Philosophy |
+**AI Era Advantage Platform** — เครื่องมือ เอเจนต์ และสถาปัตยกรรมที่สร้าง Advantage ในยุค AI
+
+| Product | Description |
 |:--|:--|
-| 🏛️ [**Senior Architect Agent**](https://github.com/aetox-skills/senior-architect-agent) | Evidence-first architect — inspect before design, map before judge. Refuses to guess. |
-| 🤝 [**Aetox Agents Protocol**](https://github.com/aetox-skills/Aetox-Agents-Team) | Self-organizing multi-agent collaboration — no orchestrator needed. Entry Ritual → Scope → Handoff → Exit. |
-| 💡 [**Idea → Architecture**](https://github.com/aetox-skills/idea-to-architecture-agent) | Question-first proposal engine — raw fuzzy concept → structured, reviewable architecture spec. |
-| 💰 **Token Calc** | Token cost surgeon — turn vague API costs into concrete annual USD. Model-agnostic. |
+| 🧠 **Directional Cognition v1** | 6-layer cognitive engine — Task Decomposer → Planner → Executor → Verifier → Memory → Meta. ควบคุมวิธีคิดของโมเดล ไม่ใช่แค่ถาม→ตอบ |
+| 🏛️ **Senior Architect Agent** | Evidence-first system mapping — inspect before design, map before judge. Architecture debt, blast radius, honest uncertainty. |
+| 🤝 **Aetox Agents Protocol** | Self-organizing multi-agent — no orchestrator. Entry Ritual → Scope → Handoff → Exit. |
+| 💡 **Idea → Architecture** | Raw concept → structured architecture spec. Question-first proposal engine. |
+| 💰 **Token Calc** | Token cost surgeon — vague API costs → concrete annual USD. Model-agnostic. |
 | 🔥 **Grill with Docs** | Stress-test implementation plans against domain model. Catch contradictions before building. |
+| 🖼️ **ImgCompress** | Python auto-compress pipeline — 65%+ size reduction without quality loss. |
 
 ---
 
 ### 🏆 Key Projects
 
-| Project | Description | Stack |
-|:--|:--|:--:|
-| 🎾 **ALM Impact Tennis** | Smart Matchmaker + Court Booking — NTRP-based pair matching, premium glassmorphism UI | React 19, TS, Tailwind v4, Gemini |
-| 🏗️ **Senior Architect Agent** | AI agent — system mapping, architecture docs, Mermaid diagrams, agent handoff | Python, LangChain |
-| 🤖 **Aetox Works** | AI Enterprise Workforce — LangGraph Supervisor-Worker pipeline, 5 specialized agents | LangGraph, FastAPI, Docker |
-| 🏅 **AI-Robot-Guide-** | Hybrid Intelligence Tourism Platform — **Gold Medal National Competition** 🥇 | Python, RAG, LLM |
-| 📒 **Ledger Inbox** | Evidence-first Accounting for Freelance Devs — Offline First Desktop App | FastAPI, SPA |
+| Project | Stack |
+|:--|:--:|
+| 🎾 **ALM Impact Tennis** — Smart Matchmaker + Court Booking (NTRP matching, glassmorphism UI) | React 19, TS, Tailwind v4, Gemini |
+| 🏗️ **Aetox Works** — AI Enterprise Workforce (LangGraph Supervisor-Worker, 5 agents) | LangGraph, FastAPI, Docker |
+| 🏅 **AI-Robot-Guide-** — Hybrid Intelligence Tourism Platform (🥇 Gold Medal National) | Python, RAG, LLM |
+| 📒 **Ledger Inbox** — Evidence-first Accounting, Offline First Desktop App | FastAPI, SPA |
+| 🦅 **Aetox Inference Engine** — Rust inference engine for Ornith 397B. MoE streaming, tiered memory, async prefetch. *(Phase 0→5)* | Rust |
+
+---
 
 <div align="center">
 
@@ -68,24 +59,20 @@ Jun '26  ▸ Meta / Tooling      Senior Architect Agent · Aetox Protocol
 
 ---
 
-### ⚡ Tech Stack
+### ⚡ Stack
 
 <div align="center">
 
-**Languages**
-
 ![Languages](https://skillicons.dev/icons?i=py,ts,js,go,rust,c,cpp&theme=dark&perline=14)
-
-**Frontend**
 
 ![Frontend](https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,html,css,md&theme=dark&perline=14)
 
-**Backend & Database**
+![Backend & DB](https://skillicons.dev/icons?i=fastapi,nodejs,postgres,sqlite,redis&theme=dark&perline=14)
 
-![Backend](https://skillicons.dev/icons?i=fastapi,nodejs,postgres,sqlite,redis&theme=dark&perline=14)
-
-**DevOps & Tools**
-
-![Tools](https://skillicons.dev/icons?i=docker,git,github,githubactions,linux,bash,vscode&theme=dark&perline=14)
+![DevOps & Tools](https://skillicons.dev/icons?i=docker,git,github,linux,bash,vscode&theme=dark&perline=14)
 
 </div>
+
+---
+
+<div align="center"><sub>Aetox — built by Mike (ชยพล พรมสะวะนา)</sub></div>
