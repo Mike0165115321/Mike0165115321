@@ -9,6 +9,8 @@
 
 </div>
 
+<div align="center"><b>Mike</b> — Architecture-first AI developer · Cognitive Systems</div>
+
 ---
 
 ### 🧠 Directional Cognition
