@@ -16,12 +16,6 @@
 ### 🧠 Directional Cognition
 
 > *"หัวใจไม่ใช่ความรู้ในโมเดล หัวใจคือ Architecture ที่ควบคุมวิธีคิดของโมเดล"*
->
-> Directional Cognition — สถาปัตยกรรมที่ควบคุมทิศทางการคิดของโมเดล  
-> ใช้ DeepSeek เป็น substrate จับคู่กับ Cognitive Architecture  
-> เพื่อให้ผลลัพธ์ดีกว่าโมเดลใหญ่
-
-**แนวคิด:** ไม่ต้องรอ Scaling Law — ใช้ Architecture ที่ถูกต้อง จับคู่โมเดลเล็กกับ cognitive layer ที่ออกแบบมาอย่างมีระบบ ก็เอาชนะโมเดลใหญ่ที่ใช้แค่ prompt + knowledge ได้
 
 ---
 
