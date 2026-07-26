@@ -13,7 +13,7 @@
 
 ### 🧠 Directional Cognition
 
-> *"หัวใจไม่ใช่ความรู้ในโมเดล — หัวใจคือ Architecture ที่ควบคุมวิธีคิดของโมเดล"*
+> *"หัวใจไม่ใช่ความรู้ในโมเดล หัวใจคือ Architecture ที่ควบคุมวิธีคิดของโมเดล"*
 >
 > Directional Cognition — สถาปัตยกรรมที่ควบคุมทิศทางการคิดของโมเดล  
 > ใช้ DeepSeek เป็น substrate จับคู่กับ Cognitive Architecture  
